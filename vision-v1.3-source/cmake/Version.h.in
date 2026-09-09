@@ -1,0 +1,7 @@
+#pragma once
+
+namespace vision {
+inline constexpr char kName[] = "vision";
+inline constexpr char kVersion[] = "@PROJECT_VERSION_MAJOR@.@PROJECT_VERSION_MINOR@";
+inline constexpr char kAccent[] = "#005fff";
+}
